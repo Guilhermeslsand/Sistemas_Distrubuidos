@@ -120,7 +120,7 @@
 //const ehPar = n => n  % 2 === 0
 // Funções de alta ordem: Recebe um outra função como parametro e/ou devolve uma função (funcoes que manipulam funções)
 
-// ------ Closures ------
+// ------------ Closures ------------
 //let  umaFuncao = function()
 //{
 //    console.log('Fui armazenada em uma variável')

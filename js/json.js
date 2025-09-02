@@ -56,6 +56,7 @@ const concessionario = {
 
 //Calculadora -> tem marca e modelo. Soma e Sub. 
 // A faz com arrow fuction sem usar return e a sub faz com fuction regular
+/*
 const calculadora = {
     marca: 'HP',
     modelo: 'V2',
@@ -67,3 +68,4 @@ const calculadora = {
 for(let operacao of Object.keys(calculadora.operacoes)){
     console.log(`${operacao}: ${calculadora.operacoes[operacao](2,3)}`)
 }
+*/
